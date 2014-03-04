@@ -3,7 +3,7 @@ node-overview-presentation
 
 See slides online 
 
-http://luxembourgjs.github.io/node-overview-presentation
+http://krampstudio.com/node-overview-presentation/
 
 
 The slide deck for an introduction to node.js
